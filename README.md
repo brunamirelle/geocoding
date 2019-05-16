@@ -1,2 +1,6 @@
 # geocoding
-R code to geocode by location name, address and CEP (under construction)
+R code to geocode location name, address and CEP 
+
+api.R : geocode CEP, site: http://www.cepaberto.com/
+
+geocode.R : geocode location name or address using Google API 
